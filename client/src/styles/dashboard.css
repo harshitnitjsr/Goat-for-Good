@@ -1,0 +1,13 @@
+.full {
+    min-height: 100vh;
+    width: 100%;
+    display:flex;
+    align-items: start;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    align-items: center;
+}

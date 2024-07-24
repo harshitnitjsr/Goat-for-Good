@@ -1,0 +1,17 @@
+.content-chart {
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+}
+
+.row-first {
+    max-height: 150px;
+    display: flex;
+    gap: 100px;
+}
+
+.container {
+    background-color: rgb(31, 42, 64);
+    width: 255px;
+    height: 240px;
+}

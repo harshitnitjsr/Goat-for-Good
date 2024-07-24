@@ -1,0 +1,23 @@
+.contentbox {
+    display: flex;
+    min-width: 80vw;
+    min-height: 80vh;
+    flex-direction: row;
+}
+.col {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    gap: 20px;
+}
+.assignform {
+    display : flex;
+    flex-direction: column;
+    gap:10px;
+    flex-grow: 1;
+    margin-top: 20px;
+}
+.right {
+    min-width: 50%;
+    min-height: 50vh;
+}
